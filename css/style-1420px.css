@@ -1,0 +1,65 @@
+.section_main1{
+    display: flex;
+    position: relative;
+    height:873px;
+    gap: 0px;
+    justify-content: space-between;
+    margin-left: 0px;
+    margin-top: 40px;
+    margin-right:0px ;
+    width: 1300px;
+    min-width: 0px;
+    margin: 0px 20px;
+    
+}
+.section_main1_info{
+    
+    margin-top: 260px;
+    padding-right: 30px;
+    width: 586px;
+    min-width: 0px;
+    margin-left: 20px;
+   
+ 
+   
+}
+.main_wrapper{
+    width: 100%;
+    min-width: 0px;
+   margin: 0px 0px;
+}
+.section_main1_info h1{
+    max-width:  100%;
+     font-size: 70px;
+     font-weight: 400;
+     font-style: normal;
+     line-height: 88px; 
+     letter-spacing: 3.2px;
+     
+     
+ 
+ }
+ .section_main1_info p{
+    margin-left: 22px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+  
+  }
+  .section__main2__episodes__episod3__wrapperContent{
+    margin: 40px;
+    gap: 53px;
+    background-color: black;
+    height: max-content;
+    box-sizing: border-box;
+  }
+  .section__cards{
+    display: flex;
+    justify-content: center;
+}
+  .section__cards__main{
+   
+    grid-template-columns: 1fr 1fr;
+  }
